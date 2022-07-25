@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(to left, #5cdb95 60%, #05386B 40%);
+  overflow: hidden; /* Hide scrollbars */
+}
