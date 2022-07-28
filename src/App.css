@@ -43,3 +43,8 @@ body {
   background: linear-gradient(to left, #5cdb95 60%, #05386B 40%);
   overflow: hidden; /* Hide scrollbars */
 }
+
+.App-Grid {
+  position: fixed;
+  height: 1px;
+}
